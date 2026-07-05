@@ -29,8 +29,11 @@
 🛠 Main projects I'm building: AI-Based ISG Control System, SağlıkHub, and ShiftMind.
 
 💼 Past experiences: 
+
   **- Software Engineering Intern at Kazancı Holding (Aksa) (Feb 2, 2026 - May 22, 2026)**
+  
   **- Software Engineering Intern at Kazancı Holding (Aksa) (Jul 16, 2025 - Aug 25, 2025)**
+  
   **- Software Engineering Intern at Verkosis               (Jul 1, 2024 - Aug 25, 2024)**
 
 🌐 Open to: Junior Software Developer roles, AI integrations.
