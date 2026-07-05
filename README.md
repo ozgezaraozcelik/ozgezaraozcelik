@@ -4,13 +4,13 @@
 
 <!-- Contact Links -->
 <h2 align="center">
-  <a href="https://github.com/kullanici_adin">🐙 GitHub</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:email_adresin@gmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/linkedin_kullanici_adin">💼 LinkedIn</a>
+  <a href="https://github.com/ozgezaraozcelik">🐙 GitHub</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:zaraozcelik1@gmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/özge-zara-özçelik">💼 LinkedIn</a>
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-YOLO_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -19,7 +19,7 @@
 ---
 
 - 🌱 I’m currently working on **AI-Integrated Products** and **Scalable Backend Architectures**.
-- 💼 I’m experienced in **C#, .NET, Python, Java**, and AI models like **YOLO & RAG**.
+- 💼 I’m experienced in **C#, .NET, Python**, and AI models like **YOLO & RAG**.
 - ⚡ Fun fact: When I'm not coding, you can find me canoeing or exploring new dessert spots in the city!
 
 ---
@@ -66,32 +66,17 @@
       <p align="center">A healthcare platform featuring a specialized AI chatbot trained using RAG technology to assist users efficiently.</p>
       <p align="center"><strong>Python • RAG • AI</strong></p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚙️ ShiftMind</h3>
-      <p align="center">
-        <a href="https://github.com/kullanici_adin/ShiftMind">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">An advanced personnel planning and rotation system developed with a modular monolith architecture.</p>
-      <p align="center"><strong>C# • .NET</strong></p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🛡️ AI-Based ISG Control</h3>
       <p align="center">
-        <a href="https://github.com/kullanici_adin/ISG-Control">
+        <a href="https://github.com/ozgezaraozcelik/Yapay_Zeka_Destekli_ISG_Kontrol_Sistemi">
           <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p align="center">An Occupational Health and Safety control system utilizing computer vision for real-time compliance monitoring.</p>
       <p align="center"><strong>YOLOv8m • Java</strong></p>
-    </td>
-    <td width="50%">
-       <h3 align="center">🚀 More to come...</h3>
-       <p align="center">Constantly exploring new integrations of AI into web and backend products.</p>
-       <p align="center"><strong>Open to Contributions</strong></p>
     </td>
   </tr>
 </table>
@@ -99,11 +84,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kullanici_adin&theme=2077" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kullanici_adin&theme=2077" height="180em" alt="Most Commited Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kullanici_adin&theme=2077" height="180em" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kullanici_adin&theme=2077" height="180em" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kullanici_adin&theme=2077" height="180em" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozgezaraozcelik&theme=2077" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozgezaraozcelik&theme=2077" height="180em" alt="Most Commited Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ozgezaraozcelik&theme=2077" height="180em" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ozgezaraozcelik&theme=2077" height="180em" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozgezaraozcelik&theme=2077" height="180em" alt="Profile Details"/>
 </p>
 
 ## 🚀 About Me
