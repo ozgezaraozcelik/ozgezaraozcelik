@@ -1,16 +1,116 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Özge Zara Özçelik</h1>
+<h3 align="center">A Junior Software Developer and Computer Engineer from Turkey 🇹🇷</h3>
 
-<!--
-**ozgezaraozcelik/ozgezaraozcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Contact Links -->
+<h2 align="center">
+  <a href="https://github.com/kullanici_adin">🐙 GitHub</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:email_adresin@gmail.com">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/linkedin_kullanici_adin">💼 LinkedIn</a>
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-YOLO_%26_RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently working on **AI-Integrated Products** and **Scalable Backend Architectures**.
+- 💼 I’m experienced in **C#, .NET, Python, Java**, and AI models like **YOLO & RAG**.
+- ⚡ Fun fact: When I'm not coding, you can find me canoeing or exploring new dessert spots in the city!
+
+---
+
+🎓 Computer Engineer, passionate about building intelligent systems.
+
+🛠 Main projects I'm building: AI-Based ISG Control System, SağlıkHub, and ShiftMind.
+
+💼 Past experiences: Software Engineering Internship at Kazancı Holding (Aksa) & EnerjiSA Womentum Graduate.
+
+🌐 Open to: Junior Software Developer roles, AI integrations, and backend engineering.
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks** <br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**AI & Machine Learning** <br>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/CNN-FF9900?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+**Tools & Architecture** <br>
+<img src="https://img.shields.io/badge/Modular_Monolith-000000?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 SağlıkHub</h3>
+      <p align="center">
+        <a href="https://github.com/kullanici_adin/SaglikHub">
+          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A healthcare platform featuring a specialized AI chatbot trained using RAG technology to assist users efficiently.</p>
+      <p align="center"><strong>Python • RAG • AI</strong></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚙️ ShiftMind</h3>
+      <p align="center">
+        <a href="https://github.com/kullanici_adin/ShiftMind">
+          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">An advanced personnel planning and rotation system developed with a modular monolith architecture.</p>
+      <p align="center"><strong>C# • .NET</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛡️ AI-Based ISG Control</h3>
+      <p align="center">
+        <a href="https://github.com/kullanici_adin/ISG-Control">
+          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">An Occupational Health and Safety control system utilizing computer vision for real-time compliance monitoring.</p>
+      <p align="center"><strong>YOLOv8m • Java</strong></p>
+    </td>
+    <td width="50%">
+       <h3 align="center">🚀 More to come...</h3>
+       <p align="center">Constantly exploring new integrations of AI into web and backend products.</p>
+       <p align="center"><strong>Open to Contributions</strong></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kullanici_adin&theme=2077" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kullanici_adin&theme=2077" height="180em" alt="Most Commited Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kullanici_adin&theme=2077" height="180em" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kullanici_adin&theme=2077" height="180em" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kullanici_adin&theme=2077" height="180em" alt="Profile Details"/>
+</p>
+
+## 🚀 About Me
+
+```yaml
+Name: Özge Zara Özçelik
+Role: Junior Software Developer
+Education: BSc Computer Engineering (Graduated)
+Focus: Artificial Intelligence 
+Location: Bursa, Turkey
