@@ -77,7 +77,7 @@
     <td width="50%">
       <h3 align="center">🏥 SağlıkHub</h3>
       <p align="center">
-        <a href="https://github.com/kullanici_adin/SaglikHub">
+        <a href="https://github.com/ozgezaraozcelik/Saglik-Hub">
           <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
