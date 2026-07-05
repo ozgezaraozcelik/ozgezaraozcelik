@@ -28,9 +28,12 @@
 
 🛠 Main projects I'm building: AI-Based ISG Control System, SağlıkHub, and ShiftMind.
 
-💼 Past experiences: Software Engineering Internship at Kazancı Holding (Aksa) & EnerjiSA Womentum Graduate.
+💼 Past experiences: 
+  **- Software Engineering Intern at Kazancı Holding (Aksa) (Feb 2, 2026 - May 22, 2026)**
+  **- Software Engineering Intern at Kazancı Holding (Aksa) (Jul 16, 2025 - Aug 25, 2025)**
+  **- Software Engineering Intern at Verkosis               (Jul 1, 2024 - Aug 25, 2024)**
 
-🌐 Open to: Junior Software Developer roles, AI integrations, and backend engineering.
+🌐 Open to: Junior Software Developer roles, AI integrations.
 
 ## 🧰 Tech Stack
 
@@ -57,18 +60,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏥 SağlıkHub</h3>
-      <p align="center">
-        <a href="https://github.com/kullanici_adin/SaglikHub">
-          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">A healthcare platform featuring a specialized AI chatbot trained using RAG technology to assist users efficiently.</p>
-      <p align="center"><strong>Python • RAG • AI</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🛡️ AI-Based ISG Control</h3>
       <p align="center">
         <a href="https://github.com/ozgezaraozcelik/Yapay_Zeka_Destekli_ISG_Kontrol_Sistemi">
@@ -77,6 +68,18 @@
       </p>
       <p align="center">An Occupational Health and Safety control system utilizing computer vision for real-time compliance monitoring.</p>
       <p align="center"><strong>YOLOv8m • Java</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 SağlıkHub</h3>
+      <p align="center">
+        <a href="https://github.com/kullanici_adin/SaglikHub">
+          <img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A healthcare platform featuring a specialized AI chatbot trained using RAG technology to assist users efficiently.</p>
+      <p align="center"><strong>Python • RAG • AI</strong></p>
     </td>
   </tr>
 </table>
@@ -97,5 +100,5 @@
 Name: Özge Zara Özçelik
 Role: Junior Software Developer
 Education: BSc Computer Engineering (Graduated)
-Focus: Artificial Intelligence 
-Location: Bursa, Turkey
+Focus: Artificial Intelligence, .NET, Python
+Location: Istanbul, Turkey
